@@ -1,6 +1,6 @@
 # dinamik_ortalama_hesapla
 
-A new Flutter project.
+Flutter kullanılarak dinamik şekilde üniversite dönem ortalamanızı hesaplayabilirsiniz.
 
 ## Getting Started
 
